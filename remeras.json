@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Remera 1",
+        "description": "Una hermosa remera de colores vibrantes.",
+        "stock": 10
+    },
+    {
+        "name": "Remera 2",
+        "description": "Una remera clásica de algodón.",
+        "stock": 0
+    },
+    {
+        "name": "Remera 3",
+        "description": "Una remera cómoda para el uso diario.",
+        "stock": 8
+    },
+    {
+        "name": "Remera 4",
+        "description": "Una remera con diseño moderno.",
+        "stock": 12
+    },
+    {
+        "name": "Remera 5",
+        "description": "Una remera con diseño moderno.",
+        "stock": 12
+    },
+    {
+        "name": "Remera 6",
+        "description": "Una remera con diseño moderno.",
+        "stock": 12
+    },
+    {
+        "name": "Remera 7",
+        "description": "Una remera con diseño moderno.",
+        "stock": 12
+    },
+    {
+        "name": "Remera 8",
+        "description": "Una remera con diseño moderno.",
+        "stock": 0
+    },
+    {
+        "name": "Remera 9",
+        "description": "Una remera con diseño moderno.",
+        "stock": 0
+    }
+]
